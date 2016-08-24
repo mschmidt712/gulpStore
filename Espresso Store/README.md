@@ -1,4 +1,4 @@
-Transamerica UI Demos
+Gulp Store Demo App
 =============================
 
 #### Requirements
@@ -11,4 +11,5 @@ npm install
 ```
 
 #### Gulp Tasks
+## Add tasks here once completed
 
